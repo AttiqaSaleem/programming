@@ -1,1 +1,1 @@
-# programming
+MyString Class using C++
